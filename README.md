@@ -21,8 +21,8 @@ This project demonstrates the integration of an Adafruit optical fingerprint sen
 ## Wiring Diagram
 
 - **Fingerprint Sensor:**
-  - White wire (TX) to Arduino D2
-  - Green wire (RX) to Arduino D3
+  - Yellow wire (RX) to Arduino D2
+  - Green wire (TX) to Arduino D3
   - Power (VCC) to 5V
   - Ground (GND) to GND
 - **Relay Module:**
